@@ -1,0 +1,13 @@
+ table, th, td{
+    padding:10px; border: 1px solid black; border-collapse: collapse; text-align: center;}
+
+    
+
+    
+
+.one{
+background-color: rgb(248, 246, 246);
+}
+.two{
+    background-color: rgb(163, 229, 255);
+}
